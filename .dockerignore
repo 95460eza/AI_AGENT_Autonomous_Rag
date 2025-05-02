@@ -1,0 +1,9 @@
+__pycache__/
+*.env
+*.md
+*.ipynb
+.git
+.gitignore
+venv/
+
+
