@@ -1,5 +1,7 @@
 AUTONOMOUS AI AGENT "RUNNING LOCALLY" (FOR PRIVACY) CAPABLE OF REASONING OVER A KNOWLEDGE BASE OF DOCUMENTS:
 
 The Agent can SUMMARIZE Documents
+
 FIND specific info in the documents 
+
 Perform COMPARATIVE ANALYSIS of the document contents 
