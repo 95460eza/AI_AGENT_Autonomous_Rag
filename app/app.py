@@ -1,4 +1,6 @@
+
 ################################################################################################################################
+print("\nSTARTING TO LOAD LIBRARIES\n")
 #import tensorflow
 import os
 import json
@@ -59,8 +61,8 @@ from utilities.utils import get_doc_tools
 
 from pathlib import Path
 
-
-print(os.getcwd())
+print(f"\nCURRENT WORKING DIRECTORY IS: {os.getcwd()}\n")
+#print(os.getcwd())
 
 ################################################################################################################################
 

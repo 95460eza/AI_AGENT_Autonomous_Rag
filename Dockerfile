@@ -88,6 +88,9 @@ ENTRYPOINT ["gunicorn", "-w", "4", "--bind", "0.0.0.0:5000", "app:app"]
 
 
 #docker build --build-arg PYTHON_DOCKER_IMAGE=python:3.12.9-slim -f Dockerfile -t image-ai_agent_autonomous_reasoning_rag:latest .
+#docker run  -p <host_port>:<container_port> my_appname:latest 
+#docker run -p 8000:5000 -e HUGFACE_AUTH_TOKEN=<> -e MISTRAL_API_KEY=<> image-ai_agent_autonomous_reasoning_rag:latest
+
 
 
 
